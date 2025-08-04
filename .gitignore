@@ -99,7 +99,7 @@ ENV/
 *.private
 
 # KC7 specific stuff
-#config.py
+config.py
 *.DS_Store
 /app/flaskr.db
 
