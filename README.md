@@ -1,7 +1,10 @@
 # KC7 - The Scoreboard
 
 This is a clone of the scoreboard for the kc7 game I had on a VM I was using for testing. Unfortunately the original is no longer available on https://github.com/KC7-Foundation.
-You can deploy this applation directly to azure or any other hosting app
+
+For detailed instruction on how to setup and use the scoreboard please visit https://cybersheepdog.wordpress.com/2023/02/06/kc7-scoreboard/.
+
+You can deploy this applation directly to azure or any other hosting app.
 
 ![Example Challenge Page](readme_assets/challenges.png)
 
